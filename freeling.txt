@@ -1,2 +1,0 @@
-1. Seguir les instruccions de la web (Mode instalcio: .tar.gz)
-2. A ./APIs/python instalar el modul Python
