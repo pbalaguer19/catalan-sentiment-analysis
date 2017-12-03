@@ -1,0 +1,31 @@
+﻿REFERENCES:
+
+FOLLOWING:
+- Catalan Stemming: http://snowball.tartarus.org/algorithms/catalan/stemmer.html
+
+- Stopwords (mots buits): http://latel.upf.edu/morgana/altres/pub/ca_stop.htm
+- Stopwords 2: http://www.ranks.nl/stopwords/catalan
+
+- TFG Ironia: https://repositori.upf.edu/bitstream/handle/10230/25508/JaumeRellaMu%C3%B1oz_2015.pdf?sequence=1
+- Datasets  (ML-SentiCon, Universidad de Jaén): http://www.lsi.us.es/~fermin/index.php?title=Datasets
+- Datasets: http://timm.ujaen.es/recursos/ml-senticon/
+- Freeling: http://nlp.lsi.upc.edu/freeling/demo/demo.php
+- Sinonims: http://clic.ub.edu/corpus/ancoraverb_ca
+
+- Emojis: http://apps.timwhitlock.info/emoji/tables/unicode#
+- Sentiment of Emojis: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144296
+- Sentiment of Emojis (download): https://www.clarin.si/repository/xmlui/handle/11356/1048
+
+
+RELATED WORK:
+- http://text-processing.com/demo/sentiment/
+- https://app.monkeylearn.com/main/classifiers/cl_u9PRHNzf/tab/classify-sandbox-live/
+
+
+CLASSIFIERS:
+- NaiveBayes: http://www.laurentluce.com/posts/twitter-sentiment-analysis-using-python-and-nltk/ (https://github.com/victorneo/Twitter-Sentimental-Analysis)
+- SVM: http://pybonacci.org/2015/11/24/como-hacer-analisis-de-sentimiento-en-espanol-2/
+- Deep Learning: https://github.com/amitvpatel06/Twitter-Deep-Learning
+- Logistic Regression: https://www.codementor.io/jadianes/data-science-python-r-sentiment-classification-machine-learning-du107otfg
+- Decision Tree: http://www.bogotobogo.com/python/scikit-learn/scikit_machine_learning_Constructing_Decision_Tree_Learning_Information_Gain_IG_Impurity_Entropy_Gini_Classification_Error.php
+- Maximum Entropy: http://blog.chapagain.com.np/machine-learning-sentiment-analysis-text-classification-using-python-nltk/
